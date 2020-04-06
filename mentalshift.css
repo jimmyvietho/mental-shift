@@ -1,0 +1,23 @@
+#mental {
+    color: white;
+    background-color: black;
+    float: left;
+    padding: 25%;
+    margin: 0;
+}
+
+#mental:hover {
+    background-color: grey;
+}
+
+#shift {
+    color: white;
+    background-color: grey;
+    padding: 25%;
+    margin: 0;
+    text-align: center;
+}
+
+#shift:hover {
+    background-color: black;
+}
